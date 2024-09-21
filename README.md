@@ -17,9 +17,7 @@
 
 
 
-- 📫 reach me-> **naushadadeeba073@gmail.com**
-
-- ⚡ **I treat coding like a game of hide and seek: sometimes I find the bug, and sometimes the bug finds me! I'm fluent in JavaScript, sarcasm, and the art of Googling errors. If coding were a sport, my team would be powered by caffeine, curiosity, and a bit of controlled chaos. Why do programmers prefer dark mode? Because light attracts bugs! My commit messages are like my jokes—frequent, spontaneous, and open source. Each one is a mini-adventure, from 'Fixed a bug, gained a headache' to 'It works! Maybe...'. I believe every project benefits from a touch of humor and a dash of unpredictability. So, buckle up, enjoy the ride, and remember: if it’s not breaking, it’s not learning!"**
+- 📫 reach me  **naushadadeeba073@gmail.com**
 
 
 
