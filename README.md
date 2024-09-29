@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Adeeba</h1>
-<h3 align="center">I am a Frontend Developer currently on a journey to become a Full Stack Web Developer.</h3>
+<h3 align="center">I'm a passionate **Frontend Developer** with a love for crafting sleek, responsive, and user-friendly web applications. Currently expanding my skills to become a **Full Stack Developer**, I enjoy solving challenges with **JavaScript, React, and modern web technologies**. I thrive in collaborative environments and constantly strive to enhance my coding expertise. Let's build something amazing together!
+</h3>
 
 
 <picture>
