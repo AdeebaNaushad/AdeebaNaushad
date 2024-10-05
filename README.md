@@ -11,7 +11,7 @@
 
 
 -  **naushadadeeba073@gmail.com**
--  <a href="https://adeebanaushad.github.io/Portfolio/"> Portfolio</a>
+-  <a href="https://adeebanaushad.github.io/Portfolio/" target='_blank'> Portfolio</a>
 
 
 
