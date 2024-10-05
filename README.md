@@ -10,7 +10,8 @@
 
 
 
-- 📫 reach me  **naushadadeeba073@gmail.com**
+-  **naushadadeeba073@gmail.com**
+-  <a href="https://adeebanaushad.github.io/Portfolio/"> Portfolio</a>
 
 
 
